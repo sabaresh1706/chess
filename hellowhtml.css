@@ -1,0 +1,19 @@
+.whitespan{
+    color: #ffff00;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.blackspan{
+    color:#000;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.bg{
+    background-image: url("https://wallpapercave.com/wp/wp2788864.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+body{
+    color: #695230;
+}
